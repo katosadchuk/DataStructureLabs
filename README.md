@@ -1,17 +1,17 @@
 # DataStructureLabs
 Various labs from my data structures course.
 
-# IndexTree
+*IndexTree*
 Creates a tree of words from all of Shakespear's works. 
 
-# Circle
+*Circle*
 A circular linked list
 
-# Palindrome
+*Palindrome*
 Uses a stack and queue to detect if a string is a palindrome or not
 
-# Recursion
+*Recursion*
 Solves Eight Queens and Hanoi Towers problems recursively
 
-# Sorting
+*Sorting*
 Code for various sorting methods: insertion, merge, quick
